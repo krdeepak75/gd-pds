@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "xslt",
+			"label": "xslt: Saxon Transform (New)",
+			"saxonJar": "${config:XSLT.tasks.saxonJar}",
+			"xsltFile": "/Users/dkaruppiah/try-xslt/database.xslt",
+			"xmlSource": "/Users/dkaruppiah/mstr-git/BinSource/DATABASE.PDS",
+			"resultPath": "${workspaceFolder}/xslt-out/result1.json",
+			"allowSyntaxExtensions40": "off",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [
+				"$saxon-xslt"
+			]
+		}
+	]
+}
