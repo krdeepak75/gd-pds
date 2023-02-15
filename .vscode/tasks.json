@@ -5,9 +5,9 @@
 			"type": "xslt",
 			"label": "xslt: Saxon Transform (New)",
 			"saxonJar": "${config:XSLT.tasks.saxonJar}",
-			"xsltFile": "/Users/dkaruppiah/try-xslt/database.xslt",
+			"xsltFile": "/Users/dkaruppiah/mstr-git/gd-pds/database.xslt",
 			"xmlSource": "/Users/dkaruppiah/mstr-git/BinSource/DATABASE.PDS",
-			"resultPath": "${workspaceFolder}/xslt-out/result1.json",
+			"resultPath": "${workspaceFolder}/xslt-out/database.json",
 			"allowSyntaxExtensions40": "off",
 			"group": {
 				"kind": "build",

@@ -1,0 +1,324 @@
+[
+  { "Name": "", "DBMSType": "", "DatabaseType": "" },
+  { "Name": "Oracle 11gR2", "DBMSType": "0", "DatabaseType": "200" },
+  { "Name": "Oracle 12c", "DBMSType": "0", "DatabaseType": "200" },
+  { "Name": "Oracle 12cR2", "DBMSType": "0", "DatabaseType": "200" },
+  { "Name": "Oracle 18c", "DBMSType": "0", "DatabaseType": "200" },
+  { "Name": "Oracle 19c", "DBMSType": "0", "DatabaseType": "200" },
+  { "Name": "Oracle 21c", "DBMSType": "0", "DatabaseType": "200" },
+  {
+    "Name": "Microsoft SQL Server 2008 and 2008 R2",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  {
+    "Name": "Microsoft SQL Server 2012",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  { "Name": "Azure SQL Database", "DBMSType": "1", "DatabaseType": "300" },
+  {
+    "Name": "Microsoft SQL Server 2014",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  {
+    "Name": "Microsoft SQL Server 2016",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  {
+    "Name": "Microsoft SQL Server 2017",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  {
+    "Name": "Microsoft SQL Server 2019",
+    "DBMSType": "1",
+    "DatabaseType": "300"
+  },
+  { "Name": "IBM Db2 for i", "DBMSType": "2", "DatabaseType": "700" },
+  { "Name": "IBM Db2 for z/OS", "DBMSType": "2", "DatabaseType": "700" },
+  { "Name": "IBM Db2", "DBMSType": "2", "DatabaseType": "700" },
+  {
+    "Name": "IBM Integrated Analytics System",
+    "DBMSType": "2",
+    "DatabaseType": "700"
+  },
+  { "Name": "Teradata 15.x", "DBMSType": "3", "DatabaseType": "900" },
+  { "Name": "Teradata 16.x", "DBMSType": "3", "DatabaseType": "900" },
+  { "Name": "Teradata 17.x", "DBMSType": "3", "DatabaseType": "900" },
+  { "Name": "SAP Sybase IQ", "DBMSType": "4", "DatabaseType": "500" },
+  { "Name": "SAP Sybase ASE", "DBMSType": "4", "DatabaseType": "500" },
+  {
+    "Name": "IBM Informix Extended Parallel Server (XPS)",
+    "DBMSType": "5",
+    "DatabaseType": "400"
+  },
+  { "Name": "IBM Informix", "DBMSType": "5", "DatabaseType": "400" },
+  {
+    "Name": "Microsoft Access 2000/2002/2003",
+    "DBMSType": "8",
+    "DatabaseType": "100"
+  },
+  { "Name": "Microsoft Access 2007", "DBMSType": "8", "DatabaseType": "100" },
+  { "Name": "Generic DBMS", "DBMSType": "9", "DatabaseType": "1100" },
+  { "Name": "Splunk", "DBMSType": "9", "DatabaseType": "5600" },
+  { "Name": "Actian Matrix", "DBMSType": "9", "DatabaseType": "2800" },
+  { "Name": "Cirro", "DBMSType": "9", "DatabaseType": "7500" },
+  { "Name": "SAP BW 7.3/7.4", "DBMSType": "10", "DatabaseType": "1200" },
+  {
+    "Name": "Microsoft Analysis Services 2012 and 2014 (MDX Cube Provider)",
+    "DBMSType": "11",
+    "DatabaseType": "1500"
+  },
+  {
+    "Name": "Microsoft Analysis Services 2016 (MDX Cube Provider)",
+    "DBMSType": "11",
+    "DatabaseType": "1500"
+  },
+  {
+    "Name": "Microsoft Analysis Services 2017 (MDX Cube Provider)",
+    "DBMSType": "11",
+    "DatabaseType": "1500"
+  },
+  {
+    "Name": "Microsoft Azure Analysis Services (MDX Cube Provider)",
+    "DBMSType": "11",
+    "DatabaseType": "1500"
+  },
+  {
+    "Name": "Microsoft Analysis Services 2019 (MDX Cube Provider)",
+    "DBMSType": "11",
+    "DatabaseType": "1500"
+  },
+  {
+    "Name": "Oracle Essbase 11.x MDX Cube provider",
+    "DBMSType": "12",
+    "DatabaseType": "1600"
+  },
+  { "Name": "Infobright", "DBMSType": "13", "DatabaseType": "1700" },
+  { "Name": "MariaDB", "DBMSType": "13", "DatabaseType": "1700" },
+  { "Name": "IBM Netezza", "DBMSType": "13", "DatabaseType": "1300" },
+  { "Name": "GBase8a", "DBMSType": "13", "DatabaseType": "10700" },
+  { "Name": "PostgreSQL", "DBMSType": "14", "DatabaseType": "1800" },
+  { "Name": "Pivotal Greenplum", "DBMSType": "14", "DatabaseType": "1800" },
+  { "Name": "MySQL 5.x", "DBMSType": "17", "DatabaseType": "1700" },
+  { "Name": "MySQL 8.x", "DBMSType": "17", "DatabaseType": "1700" },
+  { "Name": "Composite", "DBMSType": "18", "DatabaseType": "2200" },
+  {
+    "Name": "Cisco Data Virtualization",
+    "DBMSType": "18",
+    "DatabaseType": "2200"
+  },
+  { "Name": "Aster Database", "DBMSType": "19", "DatabaseType": "2300" },
+  { "Name": "Vertica", "DBMSType": "20", "DatabaseType": "2400" },
+  {
+    "Name": "OpenAccess ODBC Connector",
+    "DBMSType": "21",
+    "DatabaseType": "2500"
+  },
+  { "Name": "Apache Phoenix", "DBMSType": "21", "DatabaseType": "6800" },
+  { "Name": "IBM Cognos TM1", "DBMSType": "22", "DatabaseType": "2900" },
+  { "Name": "Hive 1.1.x", "DBMSType": "23", "DatabaseType": "3100" },
+  { "Name": "Hive 2.x", "DBMSType": "23", "DatabaseType": "3100" },
+  { "Name": "Hive 3.x", "DBMSType": "23", "DatabaseType": "3100" },
+  { "Name": "XQuery", "DBMSType": "27", "DatabaseType": "3000" },
+  { "Name": "BI Product Connector", "DBMSType": "27", "DatabaseType": "3000" },
+  { "Name": "Salesforce", "DBMSType": "28", "DatabaseType": "3300" },
+  { "Name": "Actian Vector", "DBMSType": "30", "DatabaseType": "3500" },
+  { "Name": "Kognitio", "DBMSType": "32", "DatabaseType": "3700" },
+  { "Name": "Exasol", "DBMSType": "33", "DatabaseType": "3800" },
+  {
+    "Name": "Informatica Data Services",
+    "DBMSType": "34",
+    "DatabaseType": "3900"
+  },
+  { "Name": "SAP HANA 1.x", "DBMSType": "35", "DatabaseType": "4000" },
+  { "Name": "SAP HANA 2.x", "DBMSType": "35", "DatabaseType": "4000" },
+  { "Name": "Impala 1.x", "DBMSType": "36", "DatabaseType": "4100" },
+  { "Name": "Impala 2.x", "DBMSType": "36", "DatabaseType": "4100" },
+  { "Name": "Impala 3.x", "DBMSType": "36", "DatabaseType": "4100" },
+  { "Name": "Amazon Redshift", "DBMSType": "37", "DatabaseType": "4200" },
+  { "Name": "Denodo", "DBMSType": "38", "DatabaseType": "4300" },
+  { "Name": "Google BigQuery", "DBMSType": "39", "DatabaseType": "4700" },
+  { "Name": "Spark SQL 1.5+", "DBMSType": "41", "DatabaseType": "8100" },
+  { "Name": "Spark SQL 2.x", "DBMSType": "41", "DatabaseType": "8100" },
+  { "Name": "Spark SQL 3.x", "DBMSType": "41", "DatabaseType": "8100" },
+  { "Name": "MongoDB", "DBMSType": "42", "DatabaseType": "5200" },
+  { "Name": "MarkLogic", "DBMSType": "43", "DatabaseType": "5300" },
+  { "Name": "Big Data Engine", "DBMSType": "44", "DatabaseType": "5400" },
+  { "Name": "Solr Search", "DBMSType": "45", "DatabaseType": "5500" },
+  { "Name": "Google Drive", "DBMSType": "47", "DatabaseType": "4400" },
+  { "Name": "DataDirect Cloud", "DBMSType": "47", "DatabaseType": "6500" },
+  { "Name": "DropBox", "DBMSType": "48", "DatabaseType": "4500" },
+  { "Name": "Arcadia Platform", "DBMSType": "48", "DatabaseType": "6600" },
+  { "Name": "Google Analytics", "DBMSType": "49", "DatabaseType": "4600" },
+  { "Name": "SingleStore", "DBMSType": "49", "DatabaseType": "6700" },
+  {
+    "Name": "Google BigQuery Native",
+    "DBMSType": "50",
+    "DatabaseType": "4900"
+  },
+  { "Name": "Twitter", "DBMSType": "51", "DatabaseType": "5700" },
+  { "Name": "Facebook", "DBMSType": "52", "DatabaseType": "5800" },
+  { "Name": "Apache Cassandra", "DBMSType": "55", "DatabaseType": "7100" },
+  { "Name": "Presto", "DBMSType": "56", "DatabaseType": "7200" },
+  { "Name": "MapR Drill", "DBMSType": "59", "DatabaseType": "7300" },
+  { "Name": "Snowflake", "DBMSType": "60", "DatabaseType": "7600" },
+  { "Name": "URLAuth", "DBMSType": "60", "DatabaseType": "7700" },
+  {
+    "Name": "Amazon Aurora MySQL Compatible",
+    "DBMSType": "62",
+    "DatabaseType": "1700"
+  },
+  { "Name": "GenericDataConnector", "DBMSType": "63", "DatabaseType": "7900" },
+  { "Name": "Amazon Athena", "DBMSType": "64", "DatabaseType": "8000" },
+  {
+    "Name": "MicroStrategy Data Import Server",
+    "DBMSType": "65",
+    "DatabaseType": "18100"
+  },
+  { "Name": "Druid", "DBMSType": "69", "DatabaseType": "8500" },
+  { "Name": "MongoDB BI Connector", "DBMSType": "70", "DatabaseType": "8600" },
+  { "Name": "Azure Cosmos DB", "DBMSType": "71", "DatabaseType": "8700" },
+  { "Name": "Paypal", "DBMSType": "72", "DatabaseType": "8800" },
+  { "Name": "Square", "DBMSType": "73", "DatabaseType": "8900" },
+  { "Name": "Concur", "DBMSType": "74", "DatabaseType": "9000" },
+  { "Name": "Marketo", "DBMSType": "75", "DatabaseType": "9100" },
+  { "Name": "Shopify", "DBMSType": "76", "DatabaseType": "9200" },
+  { "Name": "HubSpot", "DBMSType": "77", "DatabaseType": "9300" },
+  { "Name": "ServiceNow", "DBMSType": "78", "DatabaseType": "9400" },
+  { "Name": "Eloqua", "DBMSType": "79", "DatabaseType": "9500" },
+  {
+    "Name": "Azure Synapse Analytics",
+    "DBMSType": "80",
+    "DatabaseType": "300"
+  },
+  {
+    "Name": "Amazon Aurora PostgreSQL Compatible",
+    "DBMSType": "81",
+    "DatabaseType": "1800"
+  },
+  { "Name": "OData (CData Driver)", "DBMSType": "84", "DatabaseType": "9800" },
+  { "Name": "MapD", "DBMSType": "87", "DatabaseType": "10300" },
+  { "Name": "CloudElement", "DBMSType": "88", "DatabaseType": "18200" },
+  { "Name": "Yellowbrick", "DBMSType": "93", "DatabaseType": "10900" },
+  { "Name": "DIDBMS", "DBMSType": "95", "DatabaseType": "" },
+  {
+    "Name": "SAP HANA 2.0 SPS4 (MDX Cube Provider)",
+    "DBMSType": "96",
+    "DatabaseType": "18300"
+  },
+  {
+    "Name": "SAP S/4HANA CDS Views",
+    "DBMSType": "97",
+    "DatabaseType": "11300"
+  },
+  {
+    "Name": "IBM Netezza Performance Server",
+    "DBMSType": "98",
+    "DatabaseType": "11100"
+  },
+  {
+    "Name": "SAP BW/4HANA OData Sources",
+    "DBMSType": "99",
+    "DatabaseType": "11500"
+  },
+  { "Name": "Cloud Gateway S3", "DBMSType": "100", "DatabaseType": "18500" },
+  { "Name": "Cloud Gateway ADLS2", "DBMSType": "101", "DatabaseType": "18600" },
+  { "Name": "Cloud Gateway GCS", "DBMSType": "102", "DatabaseType": "18700" },
+  { "Name": "Cloud Gateway", "DBMSType": "103", "DatabaseType": "18400" },
+  { "Name": "Kyvos 2020.2.4", "DBMSType": "104", "DatabaseType": "18800" },
+  {
+    "Name": "ElasticSearch (Coming soon)",
+    "DBMSType": "105",
+    "DatabaseType": "11600"
+  },
+  {
+    "Name": "Amazon DocumentDB (Coming soon)",
+    "DBMSType": "106",
+    "DatabaseType": "11700"
+  },
+  {
+    "Name": "Amazon DynamoDB (Coming soon)",
+    "DBMSType": "107",
+    "DatabaseType": "11800"
+  },
+  {
+    "Name": "FinancialForce (Coming soon)",
+    "DBMSType": "108",
+    "DatabaseType": "11900"
+  },
+  {
+    "Name": "Microsoft Dynamics ERP (Coming soon)",
+    "DBMSType": "109",
+    "DatabaseType": "12000"
+  },
+  {
+    "Name": "SugarCRM (Coming soon)",
+    "DBMSType": "110",
+    "DatabaseType": "12100"
+  },
+  {
+    "Name": "Microsoft Dynamics CRM (Coming soon)",
+    "DBMSType": "111",
+    "DatabaseType": "12200"
+  },
+  {
+    "Name": "Oracle Eloqua (Coming soon)",
+    "DBMSType": "112",
+    "DatabaseType": "12300"
+  },
+  {
+    "Name": "Oracle CX Service (Coming soon)",
+    "DBMSType": "113",
+    "DatabaseType": "12400"
+  },
+  {
+    "Name": "Oracle CX Sales (Coming soon)",
+    "DBMSType": "114",
+    "DatabaseType": "12500"
+  },
+  {
+    "Name": "Google Cloud Spanner",
+    "DBMSType": "115",
+    "DatabaseType": "12600"
+  },
+  { "Name": "Neo4j (Coming soon)", "DBMSType": "116", "DatabaseType": "12700" },
+  {
+    "Name": "GitHub (Coming soon)",
+    "DBMSType": "117",
+    "DatabaseType": "12800"
+  },
+  {
+    "Name": "ServiceMax (Coming soon)",
+    "DBMSType": "118",
+    "DatabaseType": "12900"
+  },
+  {
+    "Name": "TeamCity (Coming soon)",
+    "DBMSType": "119",
+    "DatabaseType": "13000"
+  },
+  { "Name": "Jira (Coming soon)", "DBMSType": "120", "DatabaseType": "13100" },
+  {
+    "Name": "SAP BW OData Sources",
+    "DBMSType": "121",
+    "DatabaseType": "13700"
+  },
+  {
+    "Name": "SAP ECC OData Services",
+    "DBMSType": "122",
+    "DatabaseType": "13800"
+  },
+  {
+    "Name": "Microsoft Dynamics 365",
+    "DBMSType": "123",
+    "DatabaseType": "13900"
+  },
+  { "Name": "Kafka", "DBMSType": "124", "DatabaseType": "19100" },
+  { "Name": "Python Connector", "DBMSType": "128", "DatabaseType": "19000" },
+  { "Name": "Databricks", "DBMSType": "135", "DatabaseType": "15100" },
+  { "Name": "Kyligence MDX 1.3", "DBMSType": "167", "DatabaseType": "18900" }
+]

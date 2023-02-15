@@ -13,9 +13,9 @@ xmlns="http://www.w3.org/2005/xpath-functions">
             <xsl:for-each-group select="*" group-starting-with="DSSOBJECT">
             <xsl:sort select="xs:integer(DBMSType)" order="ascending"/>
                 <map>
-                    <!--string key="Name">
+                    <string key="Name">
                         <xsl:value-of select="@NAME"/>
-                    </string-->
+                    </string>
                     <string key="DBMSType">
                         <xsl:value-of select="DBMSType"/>
                     </string>
